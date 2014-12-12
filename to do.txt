@@ -1,0 +1,21 @@
+Final Project TO-DO
+
+
+change before handing:
+	level 1
+	print statements
+	check if bottom of game looks normal
+	chack if back button in menu looks normal
+	change resume location in store
+
+fix:
+	show high scores
+	box around play main menu
+
+	??change coins to 2 separate variables in game/score, merge in maingame
+
+to do:
+	test extensivley
+	music?
+
+http://millionthvector.blogspot.com/p/free-sprites.html

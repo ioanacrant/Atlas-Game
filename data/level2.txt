@@ -1,0 +1,24 @@
+21
+imgname fireimgname bulimgname goalx goaly x y type HP
+pics/enemy02.png pics/enemy02enginefire.png pics/enemy01bullet.png 50 100 200 -50 circle 200
+pics/enemy01.png pics/enemy01enginefire.png pics/enemy01bullet.png 225 275 100 -50 straight 200
+pics/enemy02.png pics/enemy02enginefire.png pics/enemy01bullet.png 300 150 400 -50 circle 200
+pics/enemy02.png pics/enemy02enginefire.png pics/enemy01bullet.png 250 400 200 -50 circle 200
+pics/enemy01.png pics/enemy01enginefire.png pics/enemy01bullet.png 150 125 100 -50 straight 200
+pics/enemy02.png pics/enemy02enginefire.png pics/enemy01bullet.png 350 300 400 -50 circle 200
+pics/enemy01.png pics/enemy01enginefire.png pics/enemy01bullet.png 100 250 100 -50 straight 200
+pics/enemy02.png pics/enemy02enginefire.png pics/enemy01bullet.png 325 250 400 -50 circle 200
+pics/enemy01.png pics/enemy01enginefire.png pics/enemy01bullet.png 150 475 100 -50 straight 200
+pics/enemy02.png pics/enemy02enginefire.png pics/enemy01bullet.png 200 200 400 -50 circle 200
+pics/enemy02.png pics/enemy02enginefire.png pics/enemy01bullet.png 400 400 200 -50 circle 200
+pics/enemy01.png pics/enemy01enginefire.png pics/enemy01bullet.png 150 125 100 -50 straight 200
+pics/enemy02.png pics/enemy02enginefire.png pics/enemy01bullet.png 75 300 400 -50 circle 150
+pics/enemy01.png pics/enemy01enginefire.png pics/enemy01bullet.png 425 500 100 -50 straight 200
+pics/enemy02.png pics/enemy02enginefire.png pics/enemy01bullet.png 75 150 400 -50 circle 200
+pics/enemy01.png pics/enemy01enginefire.png pics/enemy01bullet.png 175 175 100 -50 straight 200
+pics/enemy01.png pics/enemy01enginefire.png pics/enemy01bullet.png 50 450 100 -50 straight 150
+pics/enemy02.png pics/enemy02enginefire.png pics/enemy01bullet.png 300 150 400 -50 circle 200
+pics/enemy01.png pics/enemy01enginefire.png pics/enemy01bullet.png 100 250 100 -50 straight 200
+pics/enemy02.png pics/enemy02enginefire.png pics/enemy01bullet.png 75 150 400 -50 circle 200
+pics/boss2.png placeholder.png pics/placeholder.png 200 200 200 -300 boss 2000
+
